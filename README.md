@@ -4,3 +4,9 @@ Glacier Tracker is a Google Earth Engine (GEE) Web App for tracking glacial retr
 # Web-App Link
 Please visit the following link to interact with the Web App: 
 https://wtfineberg.users.earthengine.app/view/glaciers
+
+# Written Report
+This GEE Web App was produced as a Final Project for Earth Observation II at DePaul University. The written report for this project is provided in `GlacierTrackerReport_Fineberg.pdf`.
+
+# GEE JS Source Code
+The source code can be found in `GlacierTracker.js`. This code was implemented inside the GEE editor and therefore would require some modification to be used with the GEE API.
